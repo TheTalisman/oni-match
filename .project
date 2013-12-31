@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>OniMatch_Fork-AIRDesktop</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.project.flexbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.project.apollobuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.adobe.flexbuilder.project.apollonature</nature>
+		<nature>com.adobe.flexbuilder.project.actionscriptnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>[source path] src</name>
+			<type>2</type>
+			<location>/Users/Shared/Repos/GitHub/AS3/Oni-fork/src</location>
+		</link>
+		<link>
+			<name>[source path] src_3rdParty</name>
+			<type>2</type>
+			<location>/Users/Shared/Repos/GitHub/AS3/Oni-fork/src_3rdParty</location>
+		</link>
+	</linkedResources>
+</projectDescription>
